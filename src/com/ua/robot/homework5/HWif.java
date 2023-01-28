@@ -12,13 +12,12 @@ public class HWif {
         System.out.print("Enter b = ");
         int b = sc.nextInt();
 
-        if(a > b) {
+        if (a > b) {
             System.out.println("a It's a bigger number");
-        }
-        else {
+        } else {
             System.out.println("b It's a bigger number");
         }
-        
+
         //second
         Scanner sc2 = new Scanner(System.in);
         System.out.print("Enter c = ");
@@ -26,10 +25,9 @@ public class HWif {
         System.out.print("Enter d = ");
         int d = sc2.nextInt();
 
-        if(c > d) {
+        if (c > d) {
             System.out.println("d It's a smaller number");
-        }
-        else {
+        } else {
             System.out.println("c It's a smaller number");
         }
 
@@ -38,10 +36,9 @@ public class HWif {
         System.out.print("Enter e = ");
         int e = sc3.nextInt();
 
-        if(e % 2 == 0) {
+        if (e % 2 == 0) {
             System.out.println("event");
-        }
-        else {
+        } else {
             System.out.println("odd");
         }
     }
