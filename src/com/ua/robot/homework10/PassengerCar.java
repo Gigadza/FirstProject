@@ -1,4 +1,4 @@
-package com.ua.robot.homework11;
+package com.ua.robot.homework10;
 
 public class PassengerCar extends Car {
 

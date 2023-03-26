@@ -1,13 +1,11 @@
-package com.ua.robot.homework10;
+package com.ua.robot.homework9;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class ArrayClass {
 
-        Scanner sc = new Scanner(System.in);
 
-        public int length = sc.nextInt();
+        public int length =10;
         public int[] arr = new int[length];
 
     public void fillArray() {

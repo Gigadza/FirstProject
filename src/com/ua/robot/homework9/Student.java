@@ -1,4 +1,4 @@
-package com.ua.robot.homework10;
+package com.ua.robot.homework9;
 
 public class Student {
 
