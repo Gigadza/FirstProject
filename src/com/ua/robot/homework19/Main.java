@@ -1,4 +1,4 @@
-package com.ua.robot.homewwork19;
+package com.ua.robot.homework19;
 import java.util.*;
 
 public class Main {

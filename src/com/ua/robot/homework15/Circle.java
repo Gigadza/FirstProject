@@ -1,4 +1,4 @@
-package com.ua.robot.homewokr15;
+package com.ua.robot.homework15;
 
 public class Circle implements Figure{
     private double radius;

@@ -18,10 +18,10 @@ public class Main {
             secondlist.add(i);
         }
 
-        Student student1 = new Student("Ivan", "Ivanov", 20, "1A");
-        Student student2 = new Student("Petr", "Petrov", 20, "1A");
-        Student student3 = new Student("Sidor", "Sidorov", 20, "1A");
-        List<Student> students = new ArrayList<>();
+        Person student1 = new Person("Ivan", "Ivanov", 20, "1A");
+        Person student2 = new Person("Petr", "Petrov", 20, "1A");
+        Person student3 = new Person("Sidor", "Sidorov", 20, "1A");
+        List<Person> students = new ArrayList<>();
         students.add(student1);
         students.add(student2);
         students.add(student3);

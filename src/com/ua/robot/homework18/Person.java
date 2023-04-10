@@ -1,6 +1,6 @@
 package com.ua.robot.homework18;
 
-public class Student {
+public class Person {
     public String name;
     public String surname;
     public int age;
@@ -16,10 +16,20 @@ public class Student {
                 '}';
     }
 
-    public Student(String name, String surname, int age, String group) {
+    public Person(String name, String surname, int age, String group) {
         this.name = name;
         this.surname = surname;
         this.age = age;
         this.group = group;
     }
+
+    public int getAge() {
+        return 0;
+    }
+
+    public String getName() {
+            return null;
+    }
 }
+
+

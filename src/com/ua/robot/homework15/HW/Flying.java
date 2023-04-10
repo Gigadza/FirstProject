@@ -1,4 +1,4 @@
-package com.ua.robot.homewokr15.HW;
+package com.ua.robot.homework15.HW;
 
 public interface Flying {
     void fly();
